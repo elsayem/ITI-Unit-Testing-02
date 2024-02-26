@@ -1,0 +1,7 @@
+E:\Software Engineering\ITI\.Net\Testing\Day-02\BestWeightCalculator\BestWeightCalculator\obj\Debug\BestWeightCalculator.csproj.AssemblyReference.cache
+E:\Software Engineering\ITI\.Net\Testing\Day-02\BestWeightCalculator\BestWeightCalculator\obj\Debug\BestWeightCalculator.csproj.CoreCompileInputs.cache
+E:\Software Engineering\ITI\.Net\Testing\Day-02\BestWeightCalculator\BestWeightCalculator\bin\Debug\BestWeightCalculator.exe.config
+E:\Software Engineering\ITI\.Net\Testing\Day-02\BestWeightCalculator\BestWeightCalculator\bin\Debug\BestWeightCalculator.exe
+E:\Software Engineering\ITI\.Net\Testing\Day-02\BestWeightCalculator\BestWeightCalculator\bin\Debug\BestWeightCalculator.pdb
+E:\Software Engineering\ITI\.Net\Testing\Day-02\BestWeightCalculator\BestWeightCalculator\obj\Debug\BestWeightCalculator.exe
+E:\Software Engineering\ITI\.Net\Testing\Day-02\BestWeightCalculator\BestWeightCalculator\obj\Debug\BestWeightCalculator.pdb
